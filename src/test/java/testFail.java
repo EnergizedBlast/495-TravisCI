@@ -8,6 +8,7 @@ class testFail {
         Factorial testClass = new Factorial();
         int testValue = testClass.factorial(3);
         assertEquals(testValue, 5);
+        broke this test real good
     }
 
 }
